@@ -8,22 +8,22 @@ Este repositorio contiene una guía rápida de PL/SQL. Ideal para quienes trabaj
 
 ## 📦 Índice
 
-- [Bloques](#bloques)
-- [Variables](#variables)
-- [Constantes](#constantes)
-- [SELECT INTO](#select-into)
-- [%TYPE](#type)
-- [Condiciones (IF/CASE)](#condiciones)
-- [Loops](#loops)
-- [Triggers](#triggers)
-- [Cursores](#cursores)
-- [Registros (Records)](#records)
-- [Funciones](#funciones)
-- [Procedimientos Almacenados](#procedimientos)
-- [Paquetes](#paquetes)
-- [Excepciones](#excepciones)
-- [Colecciones](#colecciones)
-- [Programación Orientada a Objetos](#poo)
+- [Bloques](#-bloques)
+- [Variables](#-variables)
+- [Constantes](#-constantes)
+- [SELECT INTO](#-select-into)
+- [%TYPE](#-type)
+- [Condiciones (IF/CASE)](#-condiciones-ifcase)
+- [Loops](#-loops)
+- [Triggers](#-triggers)
+- [Cursores](#-cursores)
+- [Registros (Records)](#-records)
+- [Funciones](#-funciones)
+- [Procedimientos Almacenados](#-procedimientos)
+- [Paquetes](#-paquetes)
+- [Excepciones](#-excepciones)
+- [Colecciones](#-colecciones)
+- [Programación Orientada a Objetos](#-programación-orientada-a-objetos)
 
 ---
 
