@@ -1,4 +1,4 @@
-![PLSQL Cheat Sheet Banner](https://raw.githubusercontent.com/juanGMedac/plsql-cheatsheet/main/banner.png)
+![PLSQL Cheat Sheet Banner](https://github.com/juanGMedac/PL-SQL-CheatSheet/blob/main/banner.png)
 
 # 📘 PL/SQL Cheat Sheet
 
